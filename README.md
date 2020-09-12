@@ -7,3 +7,5 @@ SAMD51 Project, New build page started.
 Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/XXBk5137 with project name Mini51jPad_v01a.kicad_pcb or use source files and order from whoever you want.
 
 Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/uvxaA4xl with project name Mini51jNet_v01a.kicad_pcb or use source files and order from whoever you want.
+
+More info TK
