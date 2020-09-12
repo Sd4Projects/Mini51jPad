@@ -3,7 +3,7 @@ SAMD51 Project, This board uses the ATSAMD51J chip and can run Arduino or Circui
 
 This project is released under Open Hardware License. All sources files have been uploaded.
 
-For this Pad project I split the network part into to is own board.
+For this Pad project I split the network part out onto it's own board.
 
 ![alt text](https://github.com/Sd4Projects/Mini51jPad/blob/master/Mini51jBoardsTop.jpg?raw=true "Boards Top")
 
