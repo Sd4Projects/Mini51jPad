@@ -1,5 +1,5 @@
 # Mini51jPad
-SAMD51 Project, This board uses the ATSAMD51J chip and can run Arduino or Circuit Python depending how flash is on board is configured.
+SAMD51 Project, This board uses the ATSAMD51J chip and can run Arduino or Circuit Python depending how flash on the board is configured.
 
 This project is released under Open Hardware License. All sources files have been uploaded.
 
