@@ -3,6 +3,8 @@ SAMD51 Project, This board uses the ATSAMD51J chip and can run Arduino or Circui
 
 This project is released under Open Hardware License. All sources files have been uploaded.
 
+For this Pad project I split the network part into to is own board.
+
 ![alt text](https://github.com/Sd4Projects/Mini51jPad/blob/master/Mini51jBoardsTop.jpg?raw=true "Boards Top")
 
 Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/XXBk5137 with project name Mini51jPad_v01a.kicad_pcb or use source files and order from whoever you want.
@@ -27,4 +29,5 @@ Bootloader files.
 
 https://github.com/adafruit/uf2-samdx1/releases
 
-More info on burning bootload TK
+See SAMD51J_Board for burning the bootloader. The SAMD51J_Board and this board use the same CPU.
+
